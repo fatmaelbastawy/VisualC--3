@@ -1,0 +1,30 @@
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.csproj.AssemblyReference.cache
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.AssemblyInfoInputs.cache
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.AssemblyInfo.cs
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.csproj.CoreCompileInputs.cache
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\bin\Debug\net6.0\Revesion Task.exe
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\bin\Debug\net6.0\Revesion Task.deps.json
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\bin\Debug\net6.0\Revesion Task.runtimeconfig.json
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\bin\Debug\net6.0\Revesion Task.dll
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\bin\Debug\net6.0\Revesion Task.pdb
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.dll
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\obj\Debug\net6.0\refint\Revesion Task.dll
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.pdb
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.genruntimeconfig.cache
+C:\Users\saiko stores\Desktop\Revesion Task\Revesion Task\obj\Debug\net6.0\ref\Revesion Task.dll
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\bin\Debug\net6.0\Revesion Task.exe
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\bin\Debug\net6.0\Revesion Task.deps.json
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\bin\Debug\net6.0\Revesion Task.runtimeconfig.json
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\bin\Debug\net6.0\Revesion Task.dll
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\bin\Debug\net6.0\Revesion Task.pdb
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.csproj.AssemblyReference.cache
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.AssemblyInfoInputs.cache
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.AssemblyInfo.cs
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.csproj.CoreCompileInputs.cache
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.dll
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\obj\Debug\net6.0\refint\Revesion Task.dll
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.pdb
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\obj\Debug\net6.0\Revesion Task.genruntimeconfig.cache
+C:\Users\saiko stores\3D Objects\Visual C#\Revesion Task\Revesion Task\obj\Debug\net6.0\ref\Revesion Task.dll
